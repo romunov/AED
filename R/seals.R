@@ -8,7 +8,6 @@
 #' @description Common seal (\emph{Phoca vitulina} L.) data comes from Cronin et al. 2007.
 #' @docType data
 #' @usage data(Seals)
-#' @source Unknown
 #' @references Cronin et al. 2007. An assessment of population size and distribution of hrabour seals in the Republic ofIreland during the moult season in August 2003. Journal of zoology, 273: 131-139
 #' @references Zuur et al. 2009. Mixed effects models and extensions in ecology with R. Springer. ISBN: 978-0-387-87457-9.
 NULL
