@@ -12,7 +12,7 @@ There's a lot of material to be incorporated in the package and any help I can g
 
 The documentation is written in [`roxygen2` documentation](http://r-pkgs.had.co.nz/man.html) and it needs to be structured in a particular manner. The first paragraph is taken to be details (`\details{}` section in `.Rd` file) and the rest of the lines with tags (`@`) is quite self explanatory. All lines but `NULL` start with `#'`.
 
- * I downloaded the [zip file](http://www.highstat.com/Book2/ZuurDataMixedModelling.zip) from Highland Statistics website and stored it in a safe location.
+ * I downloaded the [zip file](https://highstat.com/Books/Book2/ZuurDataMixedModelling.zip) from [Highland Statistics website](https://highstat.com/index.php/mixed-effects-models-and-extensions-in-ecology-with-r) and stored it in a safe location.
  * I opened the book on page 503 and wrote down the description of the dataset and references at the back.
  * Saved the information in a `.R` file structured as evident in the snippet below.
  * Imported the `Seal.txt` using `Seals <- read.table("Seals.txt", header = TRUE)`.
