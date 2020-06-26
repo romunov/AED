@@ -1,7 +1,7 @@
 Package: AED
 Type: Package
 Title: Package Accompanying 'Mixed Effects Models and Extensions in Ecology with R'
-Version: 1.1
+Version: 1.2
 Author: Roman Luštrik & Joseph Stachelek
 Maintainer: Roman Luštrik <roman.lustrik@biolitika.si>
 Depends: R (>= 3.5.0)
