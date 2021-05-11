@@ -12,7 +12,7 @@
 #'   \item{DIST}{Distance to the nearest patch in meters}
 #'   \item{LDIST}{Distance to the nearest larger patch in meters}
 #'   \item{ALT}{Mean altitude of the patch in meters}
-#'   \item{YEAR.ISOL}{Year of isolation by clearance}
+#'   \item{YR.ISOL}{Year of isolation by clearance}
 #'   \item{GRAZE}{Index of stocking grazing intensity. An ordinal variable with 
 #'   levels 1 (light) to 5 (intensive)}
 #' }
