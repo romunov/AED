@@ -17,13 +17,13 @@ Tuberculosis (Tb) is a zoonosis that can jump from non-human to human animal, wh
 study for its economical and public health impacts.
 
 The dataset comes with variables:
-\itemize{
-    \item Tb: An integer denoting presence (1) or absence (0) of tuberculosis in an animal
-    \item sex: Sex of the animal harvested
-    \item age_class: Age class of the animal based on tooth eruption patterns. Boars less than 7 months old were
+\describe{
+    \item{Tb}{An integer denoting presence (1) or absence (0) of tuberculosis in an animal}
+    \item{sex}{Sex of the animal harvested}
+    \item{age_class}{Age class of the animal based on tooth eruption patterns. Boars less than 7 months old were
     classified as piglets, boars between 7 and 12 months were classified as weaners, those between 12 and 24 months
-    as juveniles, and those more than 2 years old as adults.
-    \item length_ct: Head-body length of the animal in cm, where CT is Spanish abbreviation for \emph{cabeza-tronco}.
+    as juveniles, and those more than 2 years old as adults.}
+    \item{length_ct}{Head-body length of the animal in cm, where CT is Spanish abbreviation for \emph{cabeza-tronco}.}
 }
 }
 \references{
