@@ -3,12 +3,8 @@
 #' This bird data was originally analysed in Loyn (1987), and again in Quinn
 #' and Keough (2002). The aim of the study was to relate bird densities to
 #' six habitat variables.
-#' 
-#' @name Loyn
-#' @title Loyn bird dataset
-#' @description Bird dataset from Loyn.
-#' @docType data
-#' @format A data frame with 56 observations of 8 variables:
+#'
+#' A data frame with 56 observations of 8 variables:
 #' \describe{
 #'   \item{Site}{ID number of forest patch}
 #'   \item{ABUND}{Density of forest birds in a forest patch (number of forest birds per count)}
@@ -20,6 +16,11 @@
 #'   \item{GRAZE}{Index of stocking grazing intensity. An ordinal variable with 
 #'   levels 1 (light) to 5 (intensive)}
 #' }
+#' 
+#' @name Loyn
+#' @title Loyn bird dataset
+#' @description Bird dataset from Loyn.
+#' @docType data
 #' @usage data("loyn")
 #' @source Loyn RH (1987) Effects of patch area and habitat on bird abundances,
 #'   species numbers and tree health in fragmented Victorian forests. 
