@@ -21,7 +21,7 @@
 #' @title Loyn bird dataset
 #' @description Bird dataset from Loyn.
 #' @docType data
-#' @usage data("loyn")
+#' @usage data("Loyn")
 #' @source Loyn RH (1987) Effects of patch area and habitat on bird abundances,
 #'   species numbers and tree health in fragmented Victorian forests. 
 #'   In: Nature Conservation: the role of remnants of native vegetation 
