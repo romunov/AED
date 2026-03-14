@@ -17,7 +17,7 @@ site was carried out independently and simultaneously by two observers, initiall
 more about the data in Zuur et al. 2007 in chapter 23 (page 503) or in above mentioned Cronin et al. 2007 paper.
 }
 \references{
-Cronin et al. 2007. An assessment of population size and distribution of hrabour seals in the Republic ofIreland during the moult season in August 2003. Journal of zoology, 273: 131-139
+Cronin et al. 2007. An assessment of population size and distribution of harbor seals in the Republic ofIreland during the moult season in August 2003. Journal of zoology, 273: 131-139
 
 Zuur et al. 2009. Mixed effects models and extensions in ecology with R. Springer. ISBN: 978-0-387-87457-9.
 }

@@ -1,7 +1,7 @@
 Package: AED
 Type: Package
 Title: Package Accompanying 'Mixed Effects Models and Extensions in Ecology with R'
-Version: 1.5
+Version: 1.5.1
 Author: Roman Luštrik & Joseph Stachelek
 Maintainer: Roman Luštrik <roman.lustrik@biolitika.si>
 Depends: R (>= 3.5.0)
@@ -10,4 +10,4 @@ Description: Package accompanying 2009 book by Zuur et. al.
              AED stands for "Analyzing ecological data".
 License: GPL
 Encoding: UTF-8
-RoxygenNote: 7.1.0
+RoxygenNote: 7.3.3
