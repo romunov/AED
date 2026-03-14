@@ -20,7 +20,7 @@
 #'   \item{GRAZE}{Index of stocking grazing intensity. An ordinal variable with 
 #'   levels 1 (light) to 5 (intensive)}
 #' }
-#' @usage data(loyn)
+#' @usage data("loyn")
 #' @source Loyn RH (1987) Effects of patch area and habitat on bird abundances,
 #'   species numbers and tree health in fragmented Victorian forests. 
 #'   In: Nature Conservation: the role of remnants of native vegetation 

@@ -43,7 +43,7 @@
 #' @title Longitudinal badger activity data
 #' @description Longitudinal badger activity data from several farms from 2003-2005.
 #' @docType data
-#' @usage data("BadgerActivity")
+#' @usage data("badger_farm_survey")
 #' @references First author of the chapter and possible the contact about the data, please talk to Walker, N. J., 
 #' Woodchester Park CSL, Tinkley Lane, Nympsfield, Gloucester GL10 3UJ, United Kingdom
 #' @references Zuur et al. 2009. Mixed effects models and extensions in ecology with R. Springer. ISBN: 978-0-387-87457-9.

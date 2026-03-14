@@ -26,7 +26,7 @@ Loyn RH (1987) Effects of patch area and habitat on bird abundances,
   Surrey Beatty and Sons, Chipping Norton, NSW, pp. 65-77
 }
 \usage{
-data(loyn)
+data("loyn")
 }
 \description{
 Bird dataset from Loyn.

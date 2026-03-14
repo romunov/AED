@@ -20,7 +20,7 @@
 #' @description Antartic birds (\emph{Aptenodytes forsteri}, \emph{Pygoscelis adeliae}, \emph{Daption capense}) and
 #' their phenological data along with some environmental data.
 #' @docType data
-#' @usage data("AntarcticBirds")
+#' @usage data("antarctic_birds")
 #' @references Barbraud C. and Weimerkirch H. 2006. Antarctic birds breed later in response to climate change.
 #' Proceedings of the National Academy of Sciences of the USA 103: 6048-6051.
 #' @references Zuur et al. 2009. Mixed effects models and extensions in ecology with R. Springer. ISBN: 978-0-387-87457-9.

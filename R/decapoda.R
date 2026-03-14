@@ -4,7 +4,7 @@
 #' and recruitment of decapod larvae. For the purpose of the book, only 12 decapod
 #' crustacean families are studied over two years.
 #' 
-#' The dataset comes with variables:
+#' @format The dataset comes with variables:
 #' \itemize{
 #'      \item Richness: Summed abundance of 12 families expressed as number of individuals per m^2.
 #'      \item Year: Integer denoting year.
@@ -15,14 +15,12 @@
 #'      \item S45.35m: Salinity at 45-35 m depth.
 #'      \item Ch0.10m: Chlorophyll a at 10 m depth.
 #' }
-#' 
-#' @name Decapoda
-#' @aliases Decapod.dat
+#' @name Decapod.dat
 #' @title Decapod crustaceans richness dataset
 #' @description Richness dataset of decapod crustaceans with additional explanatory variables
 #' including year, location, salinity, temperature and chlorophyll a concentrations.
 #' @docType data
-#' @usage data(Decapoda)
+#' @usage data("decapoda")
 #' @references See FRS (Fisheries Research services) long-term weekly monitoring programme 
 #' referenced in the book.
 #' @references Zuur et al. 2009. Mixed effects models and extensions in ecology with R. Springer. ISBN: 978-0-387-87457-9.

@@ -5,7 +5,7 @@
 \alias{Koalas}
 \title{Koalas in Noosa, QLD, Australia}
 \usage{
-data("Koalas")
+data("koalas")
 }
 \description{
 Presence or absence of koalas in Noosa in Queensland, Australia

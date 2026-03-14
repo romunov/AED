@@ -5,7 +5,7 @@
 \alias{WildBoarTb}
 \title{Wild boar tuberculosis-like lesions dataset}
 \usage{
-data("WildBoarTb")
+data("wildboar_tb")
 }
 \description{
 Presence or absence of tuberculosis in wild boar (\emph{Sus scrofa}) from south central Spain

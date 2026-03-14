@@ -18,7 +18,7 @@
 #' @title Benthic macrofaunal diversity data
 #' @description Influence of benthic macrofauna on nutrient release experiment dataset
 #' @docType data
-#' @usage data("Biodiversity")
+#' @usage data("biodiversity")
 #' @references Ieno EN, Solan M, Batty P, Pierce GJ. 2006. Distinguishing between the effects of infaunal species 
 #' richness, identity an density in the marine benthos. Marine ecology progress series 311:263-271
 #' @references Zuur et al. 2009. Mixed effects models and extensions in ecology with R. Springer. ISBN: 978-0-387-87457-9.

@@ -33,7 +33,7 @@
 #' @title Koalas in Noosa, QLD, Australia
 #' @description Presence or absence of koalas in Noosa in Queensland, Australia
 #' @docType data
-#' @usage data("Koalas")
+#' @usage data("koalas")
 #' @references McAlpine CA, Rhodes JR, Callaghan JG, Bower ME, Lunney D, Mitchell DL, Pullar DV, Possingham HP. 2006.
 #' The importance of forest area and configuration relative t olocal habitat factors for conserving forest mammals: a
 #' case study of koalas in Queensland, Australia. Biological conservation 132: 153-165.

@@ -5,7 +5,7 @@
 \alias{AntarcticBirds}
 \title{Antarctic birds and climate change}
 \usage{
-data("AntarcticBirds")
+data("antarctic_birds")
 }
 \description{
 Antartic birds (\emph{Aptenodytes forsteri}, \emph{Pygoscelis adeliae}, \emph{Daption capense}) and

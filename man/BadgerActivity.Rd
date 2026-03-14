@@ -5,7 +5,7 @@
 \alias{BadgerActivity}
 \title{Longitudinal badger activity data}
 \usage{
-data("BadgerActivity")
+data("badger_farm_survey")
 }
 \description{
 Longitudinal badger activity data from several farms from 2003-2005.

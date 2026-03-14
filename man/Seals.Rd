@@ -5,7 +5,7 @@
 \alias{Seals}
 \title{Seals data}
 \usage{
-Seals
+data("seals")
 }
 \description{
 Common seal (\emph{Phoca vitulina} L.) data comes from Cronin et al. 2007.

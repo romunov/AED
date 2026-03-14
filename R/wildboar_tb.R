@@ -17,7 +17,7 @@
 #' @title Wild boar tuberculosis-like lesions dataset
 #' @description Presence or absence of tuberculosis in wild boar (\emph{Sus scrofa}) from south central Spain
 #' @docType data
-#' @usage data("WildBoarTb")
+#' @usage data("wildboar_tb")
 #' @references Vicente J, Höfle U, Garrido JM, Fernández-de-Mera IG, Juste R, Barralb M, Gortazar C. 2006. Wild boar
 #' and red deer display high prevalences of tuberculosis-like lesions in Spain. Veterinary research 37: 107-119.
 #' @references Zuur et al. 2009. Mixed effects models and extensions in ecology with R. Springer. ISBN: 978-0-387-87457-9.

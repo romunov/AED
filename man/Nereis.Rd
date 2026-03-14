@@ -5,13 +5,14 @@
 \alias{Nereis}
 \title{Nereis data}
 \usage{
-Nereis
+data("nereis")
 }
 \description{
 Data of deposit-feeding \emph{Nereis (Hediste) diversicolor} from Ieno et al. (2006).
 }
 \details{
-Data of deposit-feeding \emph{Nereis (Hediste) diversicolor} comes from Ieno et al. (2006). Data was collected to model nutrient concentration.
+Data of deposit-feeding \emph{Nereis (Hediste) diversicolor} comes from Ieno et al. (2006).
+ Data was collected to model nutrient concentration.
 }
 \references{
 Ieno et al. 2006. Distinguishing between the effects of infaunal species richness, identity and density in the marine benthos. Marine ecology progress series, 311: 263-271.

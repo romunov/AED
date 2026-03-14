@@ -5,7 +5,7 @@
 \alias{Bees}
 \title{American Foulbrood affecting honey bees larvae}
 \usage{
-data("Bees")
+data("bees")
 }
 \description{
 Data on \emph{Paenibacillus larvae} spore forming bacteria infecting queen, drone and worker larvae

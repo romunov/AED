@@ -14,6 +14,6 @@
 #'     \item Beach: beach identifier
 #'     }
 #' @docType data
-#' @usage RIKZ
+#' @usage data("RIKZ")
 #' @references Zuur, A., Ieno, E.N. and Smith, G.M., 2007. Analyzing ecological data. Springer Science & Business Media.
 NULL

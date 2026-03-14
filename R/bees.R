@@ -29,7 +29,7 @@
 #' @title American Foulbrood affecting honey bees larvae
 #' @description Data on \emph{Paenibacillus larvae} spore forming bacteria infecting queen, drone and worker larvae
 #' @docType data
-#' @usage data("Bees")
+#' @usage data("bees")
 #' @references Hornitzky MAZ and Karlovskis S. 1989. A culture technique for the \emph{Bacillus larvae} in honeybees.
 #' Journal of apicultural research 28(2): 118-120.
 #' @references Zuur et al. 2009. Mixed effects models and extensions in ecology with R. Springer. ISBN: 978-0-387-87457-9.

@@ -5,7 +5,7 @@
 \alias{RIKZ}
 \title{Marine benthic data}
 \usage{
-RIKZ
+data("RIKZ")
 }
 \description{
 Marine benthic data comes from Zuur et al. (2007).

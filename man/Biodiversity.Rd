@@ -5,7 +5,7 @@
 \alias{Biodiversity}
 \title{Benthic macrofaunal diversity data}
 \usage{
-data("Biodiversity")
+data("biodiversity")
 }
 \description{
 Influence of benthic macrofauna on nutrient release experiment dataset
