@@ -5,14 +5,14 @@
 #' rivers and lakes) sediments.
 #' 
 #' Variables contained within this dataset are:
-#' \itemize{
-#'     \item MU: Denoting replicates within each \code{abundance} variable
-#'     \item mesocosm: Index of batches within \code{nutrient} variable
-#'     \item abundance: Allegedly the number of bristle worms
-#'     \item biomass: Macrofaunal biomass measured in grams
-#'     \item treatment: Whether algae were added or not
-#'     \item nutrient: Nutrient measured (NO3, NH4, PO3)
-#'     \item concentration: Concentration of a particular nutrient listed above
+#' \describe{
+#'     \item{MU}{Denoting replicates within each \code{abundance} variable}
+#'     \item{mesocosm}{Index of batches within \code{nutrient} variable}
+#'     \item{abundance}{Allegedly the number of bristle worms}
+#'     \item{biomass}{Macrofaunal biomass measured in grams}
+#'     \item{treatment}{Whether algae were added or not}
+#'     \item{nutrient}{Nutrient measured (NO3, NH4, PO3)}
+#'     \item{concentration}{Concentration of a particular nutrient listed above}
 #' }
 #' @name Biodiversity
 #' @title Benthic macrofaunal diversity data

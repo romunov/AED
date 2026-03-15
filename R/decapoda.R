@@ -5,15 +5,15 @@
 #' crustacean families are studied over two years.
 #' 
 #' @format The dataset comes with variables:
-#' \itemize{
-#'      \item Richness: Summed abundance of 12 families expressed as number of individuals per m^2.
-#'      \item Year: Integer denoting year.
-#'      \item Location: Integer denoting location.
-#'      \item T1m: Numeric, temperature at 1 m depth in °C.
-#'      \item T45.35m: Temperature at 45-35 m depth in °C.
-#'      \item S1m: Salinity at 1 m depth.
-#'      \item S45.35m: Salinity at 45-35 m depth.
-#'      \item Ch0.10m: Chlorophyll a at 10 m depth.
+#' \describe{
+#'      \item{Richness}{Summed abundance of 12 families expressed as number of individuals per m^2}
+#'      \item{Year}{Integer denoting year}
+#'      \item{Location}{Integer denoting location}
+#'      \item{T1m}{Numeric, temperature at 1 m depth in °C}
+#'      \item{T45.35m}{Temperature at 45-35 m depth in °C}
+#'      \item{S1m}{Salinity at 1 m depth}
+#'      \item{S45.35m}{Salinity at 45-35 m depth}
+#'      \item{Ch0.10m}{Chlorophyll a at 10 m depth}
 #' }
 #' @name Decapod.dat
 #' @title Decapod crustaceans richness dataset

@@ -6,37 +6,37 @@
 #' Some of the original variable names have been renamed (i.e. Year -> year) for consistency. Variables in the dataset 
 #' are:
 #' 
-#' \itemize{
-#'   \item year: Calendar year
-#'   \item season: Spring (Mar-May), summer (Jun-Aug), autumn (Sept-Nov), winter (Dec-Feb)
-#'   \item farm_code: Blinded farm identifier
-#'   \item survey: Which of the eight survey occasions (i.e. the time indicator)
-#'   \item signs_in_yard: Binary indicator of signs of badger activity
-#'   \item latrines_with_farm_feed: Binary indicator - do (any) observated badger latrines contain farm feed? This is
-#'   proxy for the fact that badgers must have been on the farm.
-#'   \item no_latrines_with_farm_feed: The number of the above
-#'   \item no_scats_with_farm_feed: Number of badger scats identified as containing farm feed
-#'   \item no_latrines: Number of badger latrines observed
-#'   \item no_setts_in_fields: Number of badger setts (i.e. homes) observed
-#'   \item no_active_setts_in_field: Number of actively used setts observed
-#'   \item no_buildings: Number of buildings on farm
-#'   \item no_cattle_in_buildings_yard: Number of cattle housed in the building yard
-#'   \item mode_feed_store_accessibility: Quantitative index of how easy it would be for badgers to access farm's feed 
-#'   store
-#'   \item accessible_feed_store_present: Binary indicator - is such a feed store present?
-#'   \item mode_cattle_house_accessibility: Quantitative indicator of how easy it would be for badgers to access the 
-#'   cattle house
-#'   \item accessible_cattle_house_present: Binary indicator - is cattle house present?
-#'   \item accessible_feed_present: Binary indicator - is accessible food present?
-#'   \item grass_silage: Binary indicator of presence of grass silage
-#'   \item cereal_silage: Binary indicator of presence of cereal silage
-#'   \item hay_straw: Binary indicator of presence of hay or straw
-#'   \item cereal_grains: Binary indicator of presence of cereal grains
-#'   \item concentrates: Binary indicator of presence of concentrates
-#'   \item protein_blocks: Binary indicator of presence of protein blocks
-#'   \item sugar_beet: Binary indicator of presence of sugar beet
-#'   \item vegetables: Binary indicator of presence of vegetables
-#'   \item molasses: Binary indicator of presence of molasses
+#' \describe{
+#'   \item{year}{Calendar year}
+#'   \item{season}{Spring (Mar-May), summer (Jun-Aug), autumn (Sept-Nov), winter (Dec-Feb)}
+#'   \item{farm_code}{Blinded farm identifier}
+#'   \item{survey}{Which of the eight survey occasions (i.e. the time indicator)}
+#'   \item{signs_in_yard}{Binary indicator of signs of badger activity}
+#'   \item{latrines_with_farm_feed}{Binary indicator - do (any) observated badger latrines contain farm feed? This is
+#'   proxy for the fact that badgers must have been on the farm.}
+#'   \item{no_latrines_with_farm_feed}{The number of the above}
+#'   \item{no_scats_with_farm_feed}{Number of badger scats identified as containing farm feed}
+#'   \item{no_latrines}{Number of badger latrines observed}
+#'   \item{no_setts_in_fields}{Number of badger setts (i.e. homes) observed}
+#'   \item{no_active_setts_in_field}{Number of actively used setts observed}
+#'   \item{no_buildings}{Number of buildings on farm}
+#'   \item{no_cattle_in_buildings_yard}{Number of cattle housed in the building yard}
+#'   \item{mode_feed_store_accessibility}{Quantitative index of how easy it would be for badgers to access farm's feed 
+#'   store}
+#'   \item{accessible_feed_store_present}{Binary indicator - is such a feed store present?}
+#'   \item{mode_cattle_house_accessibility}{Quantitative indicator of how easy it would be for badgers to access the 
+#'   cattle house}
+#'   \item{accessible_cattle_house_present}{Binary indicator - is cattle house present?}
+#'   \item{accessible_feed_present}{Binary indicator - is accessible food present?}
+#'   \item{grass_silage}{Binary indicator of presence of grass silage}
+#'   \item{cereal_silage}{Binary indicator of presence of cereal silage}
+#'   \item{hay_straw}{Binary indicator of presence of hay or straw}
+#'   \item{cereal_grains}{Binary indicator of presence of cereal grains}
+#'   \item{concentrates}{Binary indicator of presence of concentrates}
+#'   \item{protein_blocks}{Binary indicator of presence of protein blocks}
+#'   \item{sugar_beet}{Binary indicator of presence of sugar beet}
+#'   \item{vegetables}{Binary indicator of presence of vegetables}
+#'   \item{molasses}{Binary indicator of presence of molasses}
 #' }
 #' 
 #' @name BadgerActivity

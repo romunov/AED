@@ -3,32 +3,35 @@
 #' distributions across eastern Australia (see McAlpine et al., 2006, Rhodes et al., 2006). Some 100 sites were chosen 
 #' based on stratified random sampling. Within each site, three subsites were located 100 meters apart. Presence or 
 #' absence of koalas was recorded for each subsite using standardized searches of koala fecal pellets (see Phillips and 
-#' Callaghan, 2000). 
-#' 
+#' Callaghan, 2000).
+#'
 #' Koalas prefer tree species in descending order which were classified as \emph{primary}, \emph{secondary} and 
 #' \emph{supplementary} according to Australian Koala Foundation (unpublished data). Percentage of primary, secondary 
 #' and supplementary tree species was recorded for each subsite, as well as the habitat classified in highly suitable, 
 #' suitable, marginal and unsuitable. Location of paved roads were also mapped in GIS. See page 469 of the book for some
 #' additional information and maps.
-#' 
+#'
 #' Each row represents subsite entry:
-#' \itemize{
-#'     \item \code{pprim_ssite} Percentage of trees in each subsite that are primary tree species
-#'     \item \code{psec_ssite} Percentage of trees in each subsite that are secondary tree species
-#'     \item \code{phss_1km}, \code{phss_2.5km}. \code{phss_5km} Percentage of landscape within 1, 2.5 and 5 km, 
-#'     respectively, of each subsite that is highly suitable and suitable habitat
-#'     \item \code{pm_1km}, \code{pm_2.5km}, \code{pm_5km} Percentage of landscape within 1, 2.5 and 5 km, respectively,
-#'     of each site that is marginal habitat
-#'     \item \code{pdens_1km}, \code{pdens_2.5km}, \code{pdens_5km} Density (number of patches/100 ha) of habitat
-#'     patches, consisting of highly suitable, suitable and marginal habitat, in landscape within 1, 2.5 and 5 km,
-#'     respectively, of each subsite
-#'     \item \code{edens_1km}, \code{edens_2.5km}, \code{edens_5km} Density (m/ha) of habitat patch edges, consisting
-#'     of highly suitable, suitable and marginal habitat, in the landscape within 1, 2.5 and  5 km, respectively,
-#'     of each subsite
-#'     \item \code{rdens_1km}, \code{rdens_2.5km}, \code{rdens_5km} Density (m/ha) of paved roads within 1, 2.5 and 5
-#'     km, respectively, of each subsite
+#' \describe{
+#'     \item{pprim_ssite}{Percentage of trees in each subsite that are primary tree species}
+#'     \item{psec_ssite}{Percentage of trees in each subsite that are secondary tree species}
+#'     \item{phss_1km}{Percentage of landscape within 1 km that is highly suitable and suitable habitat}
+#'     \item{phss_2.5km}{Percentage of landscape within 2.5 km that is highly suitable and suitable habitat}
+#'     \item{phss_5km}{Percentage of landscape within 5 km that is highly suitable and suitable habitat}
+#'     \item{pm_1km}{Percentage of landscape within 1 km each site that is marginal habitat}
+#'     \item{pm_2.5km}{Percentage of landscape within 2.5 km each site that is marginal habitat}
+#'     \item{pm_5km}{Percentage of landscape within 5 km each site that is marginal habitat}
+#'     \item{pdens_1km}{Density (number of patches/100 ha) of habitat patches, consisting of highly suitable, suitable and marginal habitat, in landscape within 1, 2.5 and 5 km of each subsite}
+#'     \item{pdens_2.5km}{Density (number of patches/100 ha) of habitat patches, consisting of highly suitable, suitable and marginal habitat, in landscape within 1, 2.5 and 5 km of each subsite}
+#'     \item{pdens_5km}{Density (number of patches/100 ha) of habitat patches, consisting of highly suitable, suitable and marginal habitat, in landscape within 1, 2.5 and 5 km of each subsite}
+#'     \item{edens_1km}{Density (m/ha) of habitat patch edges, consisting of highly suitable, suitable and marginal habitat, in the landscape within 1, 2.5 and  5 km of each subsite}
+#'     \item{edens_2.5km}{Density (m/ha) of habitat patch edges, consisting of highly suitable, suitable and marginal habitat, in the landscape within 1, 2.5 and  5 km of each subsite}
+#'     \item{edens_5km}{Density (m/ha) of habitat patch edges, consisting of highly suitable, suitable and marginal habitat, in the landscape within 1, 2.5 and  5 km of each subsite}
+#'     \item{rdens_1km}{Density (m/ha) of paved roads within 1 km}
+#'     \item{rdens_2.5km}{Density (m/ha) of paved roads within 2.5 km}
+#'     \item{rdens_5km}{Density (m/ha) of paved roads within 5 km}
 #' }
-#' 
+#'
 #' @name Koalas
 #' @title Koalas in Noosa, QLD, Australia
 #' @description Presence or absence of koalas in Noosa in Queensland, Australia

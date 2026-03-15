@@ -1,18 +1,18 @@
 #' Dataset contains information on three bird species frequenting Antartic, the Emperor penguin (\emph{Aptenodytes forsteri}), 
 #' Adelie penguin (\emph{Pygoscelis adeliae}) and Cape petrel (\emph{Daption capense}). Variables in the dataset include
 #' below variables. Arrival and laying times are days in the year.
-#' \itemize{ 
-#'     \item ArrivalAP: Arrival time of Adelie penguin to the breeding area
-#'     \item LayingAP: Laying time of Adelie penguin
-#'     \item ArrivalCP: Arrival time of Cape petrel to the breeding ground
-#'     \item LayingCP: Laying time of Cape petrel
-#'     \item ArrivalEP: Arrival time of Emperor penguin
-#'     \item LayingEP: Laying time of Emperor penguin
-#'     \item MSA: Methanesulfonic acid, a proxy for sea ice extent since satellite images are available only from 1970
-#'     onwards
-#'     \item SOI: Southern oscillation index, also known as El Niño souther oscillation conditions. High positve values
+#' \describe{ 
+#'     \item{ArrivalAP}{Arrival time of Adelie penguin to the breeding area}
+#'     \item{LayingAP}{Laying time of Adelie penguin}
+#'     \item{ArrivalCP}{Arrival time of Cape petrel to the breeding ground}
+#'     \item{LayingCP}{Laying time of Cape petrel}
+#'     \item{ArrivalEP}{Arrival time of Emperor penguin}
+#'     \item{LayingEP}{Laying time of Emperor penguin}
+#'     \item{MSA}{Methanesulfonic acid, a proxy for sea ice extent since satellite images are available only from 1970
+#'     onwards}
+#'     \item{SOI}{Southern oscillation index, also known as El Niño souther oscillation conditions. High positve values
 #'      indicate La Niña and low negative values indicate El Niño, which have been shown to have impact on demographic
-#'      rates and food resources of many animals, including seabirds. 
+#'      rates and food resources of many animals, including seabirds.}
 #'     }
 #' 
 #' @name AntarcticBirds

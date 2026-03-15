@@ -26,16 +26,16 @@ dataset to demonstrate mixed effects modeling, including modeling variance struc
 
 Available variables are:
 
-\itemize{
-    \item rawdata: To be determined
-    \item spore_density: Density of spores, book uses name \code{Spobee}. Method of producing the data is deferring 
+\describe{
+    \item{rawdata}{To be determined}
+    \item{spore_density}{Density of spores, book uses name \code{Spobee}. Method of producing the data is deferring
     reader to the original paper. The technique is pretty gruesome, so I'll defer interested reader to the original
-    work as well.
-    \item hive: Factor indicating hive membership
-    \item x: Assuming x coordinate of the hive position
-    \item y: Assuming y coordinate of the hive position
-    \item infection: Whether the hive is considered infected or not
-    \item bee_count: Estimated number of bees in a hive, used as \code{BeesN} in the book
+    work as well.}
+    \item{hive}{Factor indicating hive membership}
+    \item{x}{Assuming x coordinate of the hive position}
+    \item{y}{Assuming y coordinate of the hive position}
+    \item{infection}{Whether the hive is considered infected or not}
+    \item{bee_count}{Estimated number of bees in a hive, used as \code{BeesN} in the book}
 }
 }
 \references{
